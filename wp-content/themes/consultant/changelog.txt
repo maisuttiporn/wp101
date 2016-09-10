@@ -1,0 +1,13 @@
+*** consultant Changelog ***
+
+17-07-2015 - version 1.2.17
+
+Change in style.css file to FIX logo going Upside down...CSS fix in below code from 350 to 0px...
+
+#logo {
+	margin: 0px 0px 0px 0px;
+	float: left;
+}
+
+05-02-2015 - version 1.2.16
+*options.php file updated to fix a bug..

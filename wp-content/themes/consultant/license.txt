@@ -1,0 +1,113 @@
+consultant WordPress Theme License Information
+
+consultant WordPress Theme, Copyright (C) 2014 Manish Gori
+
+License: GNU General Public License, v2 (or newer)
+License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+Bundled Scripts
+
+Superfish jQuery menu plugin, Copyright 2008 Joel Birch
+
+Source: http://users.tpg.com.au/j_birch/plugins/superfish/
+License: Dual licensed under the MIT and GPL licenses
+License URI: http://www.opensource.org/licenses/mit-license.php
+	     http://www.gnu.org/licenses/gpl.html
+
+Media library uploader, Copyright 2012 WooThemes
+
+Source: http://www.woothemes.com/
+License: Free to use under the GPLv2 license.
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
+Custom header script, Copyright AUTOMATTIC
+
+Source: https://github.com/Automattic/_s/blob/master/inc/custom-header.php
+	License: Free to use under the GPL license.
+	License URI: http://www.gnu.org/licenses/gpl.html
+
+
+jQuery FlexSlider v2.1, Copyright 2012 WooThemes
+
+Source: http://www.woothemes.com/flexslider/
+	License: Free to use under the GPLv2 license.
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
+
+FitVids 1.0, Copyright 2011, Chris Coyier - http://css-tricks.com + Dave Rupert - http://daverupert.com
+
+Source: http://fitvidsjs.com/
+License: Released under the WTFPL license.
+License URI: http://sam.zoy.org/wtfpl
+
+
+
+Modernizr v2.6.1, Copyright (c) Faruk Ates, Paul Irish, Alex Sexton
+
+Source: http://www.modernizr.com
+License: Available under the BSD and MIT licenses.
+License URI: www.modernizr.com/license/
+
+
+
+matchMedia() polyfill, copyright (c) 2012: Scott Jehl, Paul Irish, Nicholas Zakas
+
+Source: https://github.com/paulirish/matchMedia.js/
+License: Available under the BSD and MIT licenses.
+License URI: /js/matchmedialicense.txt
+
+
+SelectNav (v. 0.1), Copyright (c) 2012 Lukasz Fiszer
+
+Source: https://github.com/lukaszfiszer/selectnav.js
+License: Available under the MIT license.
+License URI: https://github.com/lukaszfiszer/selectnav.js/blob/master/LICENCE
+
+
+Options Framework (v. 0.8), Copyright (c) 2012 Devin Price
+
+Source: http://wptheming.com/options-framework-plugin/
+License: Free to use under the GPLv2 license.
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
+
+colorpicker plugin, Copyright 2009 Stefan Petre
+
+Source: http://www.eyecon.ro/colorpicker/
+License: Dual licensed under the MIT and GPL licenses
+License URI: http://www.opensource.org/licenses/mit-license.php
+	http://www.gnu.org/licenses/gpl.html
+
+
+Foundation Framework (v. 4.0), Copyright (c) 2014 ZURB
+
+Source: http://foundation.zurb.com/develop/download.html
+License: Free to use under the MIT license.
+License URI: https://en.wikipedia.org/wiki/MIT_License
+
+
+
+Images: slide1.png, slide2.png, bullet.png, bullets.png, go-btn.png, slider-shadow.png, main-bg.png, menu-bg.png, read-more.png, images/ box1.png, box2.png, box3.png are custom made, not copyrightable.
+
+Bundled Icons (admin/images/ico-delete.png)
+
+Icons, Copyright 2012 woothemes, Janik Baumgartner
+
+Source: http://www.woothemes.com/2010/08/woocons1/
+License: Free to use under the GPLv2 license.
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
