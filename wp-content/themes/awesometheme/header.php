@@ -1,9 +1,10 @@
 <!doctype html>
-<html>
+<html <?php language_attributes(); ?>>
 	<head>
-		<meta charset="utf-8">
-		<title>Awesome Theme</title>
-		<?php wp_head(); ?>		
+		<meta charset="<?php bloginfo('charset'); ?>">
+		<title><?php bloginfo('name'); ?> : <?php wp_title( '', true, '' ); ?></title>
+		<meta name="description" content="<?php bloginfo('description'); ?>">
+		<?php wp_head(); ?>
 	</head>
 
 	<?php 
@@ -24,6 +25,39 @@
 	*/
 	?>
 	<body <?php body_class($awesome_classes); ?> >
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-xs-12">
+
+				<nav class="navbar navbar-default">
+				  <div class="container-fluid">
+				    <!-- Brand and toggle get grouped for better mobile display -->
+				    <div class="navbar-header">
+				      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				        <span class="sr-only">Toggle navigation</span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				      </button>
+				      <a class="navbar-brand" href="<?php bloginfo('url'); ?>">Awesome Theme</a>
+				    </div>
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<?php 
+							wp_nav_menu(array(
+								'theme_location' => 'primary',
+								'container' => false,
+								'menu_class' => 'nav navbar-nav navbar-right',
+								'walker' => new Walker_Nav_Primary()
+								)
+							);
+						?>
+					</div>
+				  </div><!-- /.container-fluid -->
+				</nav>
+
+			</div> <!-- end col-xs-12 -->
+			<?php get_search_form(); ?>
+		</div> <!-- end row -->
 	
-		<?php wp_nav_menu(array('theme_location'=>'primary')); ?>	
+		
 		<img src="<?php header_image(); ?>" height="<?php get_custom_header()->height; ?>" width="<?php get_custom_header()->width; ?>" >
